@@ -1,0 +1,7 @@
+/node_modules
+npm-debug.log
+/connect.lock
+/lib/creds.js
+/bin
+bin.lck
+/reports
